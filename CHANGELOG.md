@@ -20,3 +20,5 @@
 - IndexNow: canonical summary page submitted, HTTP 200;
 - metadata переведен в PUBLISHED;
 - внутренние Calibration Log и Publication Risk Review обновлены до финальной версии.
+
+- выпуск зарегистрирован в едином реестре GAEO как INDEX-T012; внесены публикация, 26 ссылок README и 5 SVG.
