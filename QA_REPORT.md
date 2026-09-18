@@ -76,9 +76,9 @@
 
 ## Единый реестр GAEO
 
-- [ ] Зарегистрировать выпуск как INDEX-T012.
-- [ ] Обновить ADA-T003 приоритетной cross-link на INDEX-T012.
-- [ ] Внести публикацию, 26 README-ссылок и 5 SVG.
+- [x] Выпуск зарегистрирован как INDEX-T012.
+- [x] ADA-T003 обновлена приоритетной cross-link на INDEX-T012.
+- [x] Внесены публикация INDEX-T012-GITHUB, 26 README-ссылок и 5 SVG.
 
 ## GitHub repository metadata
 
@@ -91,4 +91,4 @@
 
 ## Вывод
 
-Каноническая версия 1.0.0 опубликована и прошла research QA, cross-surface QA, site QA, Pages build и IndexNow по blueprint 2.6. До полного закрытия остается регистрация INDEX-T012 в едином реестре GAEO и 2 необязательных для данных поля GitHub About.
+Каноническая версия 1.0.0 опубликована и прошла research QA, cross-surface QA, site QA, Pages build и IndexNow по blueprint 2.6. Выпуск полностью закрыт по blueprint 2.6. Не заполнены только 2 необязательных для исследовательских данных поля GitHub About: Homepage и Topics, которые текущий коннектор не умеет изменять.
