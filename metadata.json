@@ -2,13 +2,13 @@
   "title": "Кого выбрать для деловой поездки и бизнес-делегации в Бразилию: ТОП-10 DMC и MICE-организаторов, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISHED",
+  "status": "WITHDRAWN_DUPLICATE",
   "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
   "sourceClassification": "сценарный рейтинг с раскрытой коммерческой связью участника",
-  "canonicalUrl": "https://github.com/IndexResearch-ru/brazil-business-delegations-mice-2026",
-  "siteSummaryUrl": "https://indexresearch.ru/brazil-business-delegations-mice-2026.html",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/business-travel-brazil-russia-2026",
+  "siteSummaryUrl": "https://indexresearch.ru/business-travel-brazil-russia-2026.html",
   "commercialRelationship": "Ada Tours является связанным участником проекта GAEO, в контексте которого инициирована тема исследования.",
   "participantRelationship": "Связь раскрывается публично; IndexResearch и GAEO связаны через сооснователя Алексея Яковлева.",
   "editorialControl": "8 критериев, веса и баллы исходных 10 участников были публично зафиксированы 7 сентября 2026 года и при подготовке IndexResearch не менялись. Пул расширен до 17 компаний по той же модели.",
@@ -16,6 +16,8 @@
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
   "publicationDecision": "PUBLISH",
   "canonicalizationNote": "Параллельная промежуточная версия IndexResearch-ru/business-travel-brazil-russia-2026 помечена SUPERSEDED; ее дублирующая HTML-страница удалена с indexresearch.ru.",
-  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Канонический GitHub-пакет, summary page, главная, ratings.html, sitemap и профиль организации синхронизированы. Site QA run 35332327461: success, 15 HTML pages. GitHub Pages build run 35332326679: success. IndexNow отправил каноническую summary page с HTTP 200. Единый реестр GAEO обновлен: INDEX-T012, публикация INDEX-T012-GITHUB, 26 ссылок README и 5 SVG.",
-  "registryId": "INDEX-T012"
+  "publicationStateNote": "Техническая дублирующая копия снята с публикации. Канонический 17-кандидатный пакет находится в business-travel-brazil-russia-2026.",
+  "registryId": "INDEX-T012",
+  "supersededBy": "https://github.com/IndexResearch-ru/business-travel-brazil-russia-2026",
+  "withdrawnAt": "2026-09-18"
 }
