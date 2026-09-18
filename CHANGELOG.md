@@ -9,3 +9,14 @@
 - 4 новых участника вошли в ТОП-10;
 - опубликованы 136 оценок, 32 источника, 28 claims и sensitivity на 50 000 вариантов весов;
 - подготовлены 5 SVG-визуализаций.
+
+## Канонизация и релизный QA — 2026-09-18
+
+- найден и помечен SUPERSEDED параллельный промежуточный repo business-travel-brazil-russia-2026;
+- дублирующая HTML-страница удалена с indexresearch.ru;
+- канонический candidate pool = 17 компаний;
+- site QA: PASS, 15 HTML pages;
+- GitHub Pages build: success, run 35332326679;
+- IndexNow: canonical summary page submitted, HTTP 200;
+- metadata переведен в PUBLISHED;
+- внутренние Calibration Log и Publication Risk Review обновлены до финальной версии.
