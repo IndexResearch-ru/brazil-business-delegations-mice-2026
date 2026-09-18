@@ -16,5 +16,6 @@
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
   "publicationDecision": "PUBLISH",
   "canonicalizationNote": "Параллельная промежуточная версия IndexResearch-ru/business-travel-brazil-russia-2026 помечена SUPERSEDED; ее дублирующая HTML-страница удалена с indexresearch.ru.",
-  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Канонический GitHub-пакет, summary page, главная, ratings.html, sitemap и профиль организации синхронизированы. Site QA run 35332327461 завершился success: 15 HTML pages checked. GitHub Pages build run 35332326679 завершился success. IndexNow отправил https://indexresearch.ru/brazil-business-delegations-mice-2026.html с HTTP 200."
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Канонический GitHub-пакет, summary page, главная, ratings.html, sitemap и профиль организации синхронизированы. Site QA run 35332327461: success, 15 HTML pages. GitHub Pages build run 35332326679: success. IndexNow отправил каноническую summary page с HTTP 200. Единый реестр GAEO обновлен: INDEX-T012, публикация INDEX-T012-GITHUB, 26 ссылок README и 5 SVG.",
+  "registryId": "INDEX-T012"
 }
